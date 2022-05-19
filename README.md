@@ -1,3 +1,7 @@
+# seasons
+
+React app to demonstarate how to work with a state. The app gets the location and create different view of season.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
